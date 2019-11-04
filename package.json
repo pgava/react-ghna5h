@@ -1,0 +1,22 @@
+{
+  "name": "qgqjg6.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "@progress/kendo-react-upload": "3.6.0",
+    "@progress/kendo-react-intl": "3.6.0",
+    "prop-types": "15.7.2",
+    "react-transition-group": "4.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
